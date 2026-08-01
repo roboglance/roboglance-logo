@@ -1,2 +1,3 @@
-# roboglance-logo
+# RoboGlance Logo
+
 Logo files for RoboGlance
