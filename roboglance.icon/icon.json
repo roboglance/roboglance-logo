@@ -1,5 +1,5 @@
 {
-  "fill" : "system-light",
+  "fill" : "automatic",
   "groups" : [
     {
       "layers" : [
@@ -36,35 +36,44 @@
           "fill-specializations" : [
             {
               "value" : {
-                "solid" : "display-p3:0.05200,0.38190,0.73190,1.00000"
+                "linear-gradient" : [
+                  "display-p3:0.02560,0.30250,0.89520,1.00000",
+                  "display-p3:0.86850,0.16210,0.19130,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.25,
+                    "y" : 0.067
+                  },
+                  "stop" : {
+                    "x" : 0.75,
+                    "y" : 0.933
+                  }
+                }
               }
             },
             {
               "appearance" : "tinted",
               "value" : {
-                "solid" : "gray:0.50000,1.00000"
+                "linear-gradient" : [
+                  "gray:1.00000,1.00000",
+                  "gray:0.25000,1.00000"
+                ],
+                "orientation" : {
+                  "start" : {
+                    "x" : 0.25,
+                    "y" : 0.067
+                  },
+                  "stop" : {
+                    "x" : 0.75,
+                    "y" : 0.933
+                  }
+                }
               }
             }
           ],
-          "image-name" : "Blue Iris.svg",
-          "name" : "Blue Iris"
-        },
-        {
-          "fill-specializations" : [
-            {
-              "value" : {
-                "solid" : "display-p3:0.86870,0.16730,0.15940,1.00000"
-              }
-            },
-            {
-              "appearance" : "tinted",
-              "value" : {
-                "solid" : "gray:0.33000,1.00000"
-              }
-            }
-          ],
-          "image-name" : "Red Iris.svg",
-          "name" : "Red Iris"
+          "image-name" : "Iris.svg",
+          "name" : "Iris"
         }
       ],
       "lighting" : "combined",
