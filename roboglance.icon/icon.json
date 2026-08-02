@@ -79,7 +79,7 @@
       "lighting" : "combined",
       "name" : "Iris",
       "shadow" : {
-        "kind" : "neutral",
+        "kind" : "layer-color",
         "opacity" : 0.5
       },
       "translucency" : {
