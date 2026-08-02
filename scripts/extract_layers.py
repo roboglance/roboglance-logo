@@ -31,4 +31,4 @@ for i, layer_name in enumerate(layer_names):
         if layer.attrib["layer"] != layer_name:
             layer_tree.getroot().remove(layer)
 
-    layer_tree.write(f"./roboglance.icon/Assets/{layer_name}.svg")
+    layer_tree.write(f"./RoboGlance.icon/Assets/{layer_name}.svg")
