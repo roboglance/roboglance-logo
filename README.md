@@ -2,5 +2,5 @@
 
 Logo files for RoboGlance
 
-- [RoboGlance.icon](./RoboGlance.icon): Apple icon (can be used in Icon Composer)
+- [RoboGlance.icon](./RoboGlance.icon): Apple icon (can be opened in Icon Composer)
 - [extract_layers.py](./extract_layers.py): pulls out svg layers into separate files for Apple icon
