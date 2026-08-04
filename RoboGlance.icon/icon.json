@@ -67,7 +67,6 @@
           "name" : "Iris"
         }
       ],
-      "lighting" : "combined",
       "name" : "Iris",
       "shadow" : {
         "kind" : "layer-color",
