@@ -5,7 +5,7 @@
       "layers" : [
         {
           "fill" : {
-            "solid" : "display-p3:0.00000,0.00000,0.00000,1.00000"
+            "solid" : "gray:0.00000,1.00000"
           },
           "image-name" : "Pupil.svg",
           "name" : "Pupil"
